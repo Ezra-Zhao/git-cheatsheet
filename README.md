@@ -2,6 +2,9 @@
 
 [![Stars](https://img.shields.io/github/stars/Ezra-Zhao/git-cheatsheet?style=social)](https://github.com/Ezra-Zhao/git-cheatsheet/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Languages](https://img.shields.io/badge/languages-3-blue)
 
+Support & more: [GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — templates & workbooks I use](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+
+
 > 🌍 [Español](README.es.md) · [Português](README.pt.md)
 
 一份**一页纸**的 Git 实战救命速查表：30 条偏"救命向"的真实命令，按场景分类——**配置、日常、撤销、分支、rebase、储藏、远程、救命命令、高级**。每条只讲三件事：**它是干什么的、一条可复制的命令、适用场景标签**。不灌水，不凑数，全部命令均为真实 git 语法。
